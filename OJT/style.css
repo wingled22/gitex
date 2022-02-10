@@ -46,3 +46,9 @@
    color: white;
    text-align: center;
 }
+
+/* li hover */
+li :hover{
+	background-color: #FFC0D3;
+	color: black;
+}
